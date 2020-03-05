@@ -135,9 +135,9 @@
     },
     {
         "date": "2020-03-18",
-        "title": "Hackergarten Stuttgart",
-        "venue": "Industriestraße 3",
-        "address": "Industriestraße 3, Stuttgart, Germany",
+        "title": "16. Hackergarten Stuttgart",
+        "venue": "codecentric AG Stuttgart",
+        "address": "Industriestr. 3, 70565 Stuttgart",
         "links": [
             {
                 "title": "Meetup",
@@ -145,7 +145,6 @@
             }
         ],
         "achievements": []
-        
     },
     {
         "date": "2020-03-05",
